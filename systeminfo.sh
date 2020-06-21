@@ -11,3 +11,5 @@ echo -e "************System Information*************** \n Login Name: $Name \n L
  Working Kernel Version: $Version
  Current Working Directory: $current_dir
 ***************************************"
+
+echo "Checking SCM Poll in Jenkins Project."
